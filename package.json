@@ -1,0 +1,17 @@
+{
+  "name": "tdd-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mocha": "^10.7.3",
+    "supertest": "^7.0.0"
+  }
+}
